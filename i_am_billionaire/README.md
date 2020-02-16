@@ -1,6 +1,7 @@
 # i_am_billionaire
 
-A new Flutter application.
+Nothing but the picture of money.
+Only billionaire can buy this
 
 ## Getting Started
 
